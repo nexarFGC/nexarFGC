@@ -1,16 +1,37 @@
-## Hi there 👋
+# ¡Hola! Soy Nexar Moreno 👋
 
-<!--
-**nexarFGC/nexarFGC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ un apasionado estudiante de **Lic. Redes informatica de la Universidad tecnologica de Panamá** .
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías y Herramientas
+
+**Lenguajes & Desarrollo**
+- C / C++ 
+
+**Sistemas Operativos & Administración**
+- Mantenimiento y diagnóstico de hardware de PC.
+
+**Herramientas & Diseño**
+- Git & GitHub
+- Adobe Photoshop | CapCut PC
+
+---
+
+### 📊 Mis Intereses
+
+- 🐧 **Open Source & Linux:** Personalización, gestión de sistemas y entornos de trabajo eficientes.
+- 💻 **Hardware:** Montaje, optimización y diagnóstico de componentes de PC.
+- 🎮 **Gaming & Tech:** Análisis de mecánicas, hardware para fighting games y proyectos técnicos.
+
+---
+
+### 📬 Conéctate Conmigo
+
+- **Correo:** nexarmoreno.nm@gmail.com
+- **Portfolio / Web:** https://nexarfgc.github.io/Portafolio/
+
+---
+<p center>
+  <i>"El aprendizaje continuo y el control del sistema son la clave."</i>
+</p>
