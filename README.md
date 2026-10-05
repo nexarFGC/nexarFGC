@@ -4,6 +4,14 @@
 
 ---
 
+### 🚀 Sobre Mí
+
+- 🎓 **Edad:** Tengo 24 años
+- 💡 **Intereses:** , tengo un conjuntos de intereses pero abarcaremos lo que seria computacional , gaming , creación de contenido en redes sociales
+- 🗣️ **Idiomas:** Español (Nativo) | Inglés (Intermedio).
+
+---
+
 ### 🛠️ Tecnologías y Herramientas
 
 **Lenguajes & Desarrollo**
